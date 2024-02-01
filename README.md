@@ -6,5 +6,5 @@ Tarih ve saat bilgisi güncel şekilde gösterilir.
 Kütüphaneler;
 * React Rooter Dom
 * uuid
-* Bootstrap
+
 ![note-app-react](./public/gorsel.gif)
